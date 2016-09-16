@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  StickyHeader
 //
-//  Created by Jeremy Sharvit on 2016-09-16.
-//  Copyright © 2016 io.repped. All rights reserved.
-//
+
 
 import UIKit
 

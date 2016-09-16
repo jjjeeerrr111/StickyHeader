@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  StickyHeader
 //
-//  Created by Jeremy Sharvit on 2016-09-16.
-//  Copyright © 2016 io.repped. All rights reserved.
+//  Created by Jeremy Sh on 2016-09-16.
+//  Copyright © 2016
 //
 
 import UIKit
